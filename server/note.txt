@@ -1,0 +1,2 @@
+make a middleware function for the /home route so if a user that does not have a token won't be able to enter the website, 
+and it will also remove the localstorage token if they logout
